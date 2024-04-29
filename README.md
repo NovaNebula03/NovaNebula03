@@ -6,6 +6,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,chakraui,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,express" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
 </div>
