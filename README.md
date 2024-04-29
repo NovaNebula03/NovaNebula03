@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**NovaNebula03/NovaNebula03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;+I'm+Natasha)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
