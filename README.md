@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
 </div>
 
-<br>
+<div align='center'>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
@@ -28,5 +28,5 @@
 | MyTodoApp | - | [view](https://github.com/NovaNebula03/MyTodoApp) | `JavaScript` `React` `Express` `Boostrap`| 
 | BookClubApp | - | [view](https://github.com/NovaNebula03/BookClubApp) | `JavaScript` `React` `Express` `Boostrap`| 
 | PetSitting| - | - | `JavaScript` `TypeScript` `React` `Redux` `Chakra-UI` `Express`| 
-<br>
+</div>
 
